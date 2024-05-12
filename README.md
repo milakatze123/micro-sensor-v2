@@ -5,7 +5,14 @@
 
 **WARNUNG** Dieses Projekt funktioniert nur auf dem micro:bit v2 (V1 wird nicht unterstützt)
 
-
+Drücke auf das **LOGO** um den *mode* zu ändern (es gibt **7** *mode*)
+    1. **Das MIKROFON** zeigt die Lautstärke (*Soundlevel*) auf den **LED'S** an
+    2. **Der LICHTSENSOR** Zeigt das *Licht level* auf den **LED'S** an
+    3. **Der KOMPASS** Zeigt die Kompass ausrichtung an (Drücke **A+B** um den Kompass zu **Kalibriren**)
+    4. **Der TEMPARATUR SENSOR** Zeigt die *temparatur* auf den **LED'S** an
+    5. Zeigt die X-Position auf den **LED'S** an
+    6. Zeigt die Y-Position auf den **LED'S** an
+    7. Zeigt die Z-Position auf den **LED'S** an
 
 ## Dieses Projekt bearbeiten
 
