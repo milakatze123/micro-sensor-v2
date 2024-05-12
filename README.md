@@ -1,14 +1,11 @@
 
 > Diese Seite bei [https://milakatze123.github.io/micro-sensor-v2/](https://milakatze123.github.io/micro-sensor-v2/) öffnen
 
-## Als Erweiterung verwenden
+## Anleitung zu diesem Projekt
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+**WARNUNG** Dieses Projekt funktioniert nur auf dem micro:bit v2 (V1 wird nicht unterstützt)
 
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/milakatze123/micro-sensor-v2** suchen und importieren
+
 
 ## Dieses Projekt bearbeiten
 
